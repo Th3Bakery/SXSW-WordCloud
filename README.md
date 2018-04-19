@@ -5,9 +5,9 @@ To learn more about the Word Cloud Script I used: https://github.com/amueller/wo
 
 ## Examples
 
-To extract SXSW Title Data check out [scrape_SXSW.py][scrape_SXSW]
+To extract SXSW Title Data check out ![scrape_SXSW.py](scrape_SXSW.py)
 
-Check out [word_cloud_SXSW.py][word_cloud_SXSW] generates the Word Clouds. A sample output is:
+Check out ![word_cloud_SXSW.py](word_cloud_SXSW.py) generates the Word Clouds. A sample output is:
 
 ![SXSW2017](SXSW2017_WC.png)
 
