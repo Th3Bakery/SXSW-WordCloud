@@ -9,6 +9,8 @@ To extract SXSW Title Data check out ![scrape_SXSW.py](scrape_SXSW.py)
 
 Check out ![word_cloud_SXSW.py](word_cloud_SXSW.py) generates the Word Clouds. A sample output is:
 
+To really get the best view of these images, download the .png files below and open them on your computer.
+
 ![SXSW2017](SXSW2017_WC.png)
 
 ![SXSW2018](SXSW2018_WC.png)
